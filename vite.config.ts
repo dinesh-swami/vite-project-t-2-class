@@ -6,3 +6,7 @@ export default defineConfig({
     tailwindcss(),
   ],
 })
+console.log('testing')
+console.log('testing')
+console.log('testing')
+console.log('testing')
